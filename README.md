@@ -32,5 +32,3 @@ Here are some ideas to get you started:
 
 [0]: https://instagram.com/putriwayan874?igshid=OGQ5ZDc2ODk2ZA==
 [1]: https://www.linkedin.com/in/wayan-putri-yanti-794532231
-[2]: https://segmentfault.com/u/lizheming
-[3]: https://www.v2ex.com/member/lizheming
